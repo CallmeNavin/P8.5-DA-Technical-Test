@@ -2,6 +2,10 @@
 
 _This project was completed as part of a technical test. Data cannot be shared due to confidentiality, but the full process, insights, and dashboards are documented here._
 
+![Dashboard Visualization](https://github.com/CallmeNavin/P8.5-DA-Technical-Test/blob/main/Dashboard.png)
+
+_Explore more insights in the full Power BI dashboard_
+
 **Part 1: Data Quality Check**
 
 I applied six pillars of data quality to ensure raw data was transformed into trusted data, ready for reporting/dashboarding. (Mnemonic: “Check vào cửa uy(i) tín” → Completeness, Validity, Consistency & Integrity, Uniqueness, Timeliness).
